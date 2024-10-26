@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/Medical_Student-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Backend_Engineer-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Enthusiast-Healthcare-green?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Enthusiast-Medicine-green?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </div>
 
 ## 🩺 About Me
