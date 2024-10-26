@@ -107,7 +107,7 @@ A Flask-based web application for managing blood donation records and scheduling
 **Tech Stack:** Flask, SQLite, JWT Authentication
 </details>
 
-## 📊 GitHub STATS
+## 📊 GitHub Stats
 
 <!-- GitHub Stats Cards -->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fagboye&show_icons=true&theme=radical)
