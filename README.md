@@ -26,8 +26,7 @@ I'm a 6th year medical student with a passion for revolutionizing medicine & hea
 
 ### 🌟 What Drives Me
 
-- 🏥 Exploring ways to enhance patient care through technological innovation
-- 🤖 AI for medicine and healthcare
+- 🤖 Technology for innovation in medicine and healthcare
 - 🔬 Conducting research at the intersection of medicine and technology
 
 
