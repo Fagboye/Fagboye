@@ -132,7 +132,6 @@ A Flask-based web application for managing blood donation records and scheduling
 ### 💬 Feel Free to Reach Out!
   
 🌟 Open for collaborations on healthcare technology projects  
-🏥 Interested in medical software development opportunities  
-🤝 Looking to connect with other developers in the healthtech space
+🏥 Interested in research at the intersection of medicine and technology
 
 </div>
