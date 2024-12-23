@@ -22,26 +22,24 @@ Here are some ideas to get you started:
 
 ## 🩺 About Me
 
-I'm a 6th year medical student with a passion for revolutionizing medicine & healthcare through technology.
+I am just a dude building things
 
 ### 🌟 What Drives Me
 
-- 🤖 Technology for innovation in medicine and healthcare
-- 🔬 Conducting research at the intersection of medicine and technology
+-- The drive for innovation 
+-- Curiosity 
 
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) (Learning)
+![Rust](https://img.shields.io/badge/Rust-007ACC?style=for-the-badge&logo=rust&logoColor=white) (Learning)
 
 ### 🚀 Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 💾 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
