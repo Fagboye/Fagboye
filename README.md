@@ -110,7 +110,6 @@ A Flask-based web application for managing blood donation records and scheduling
   
 [![Email](https://img.shields.io/badge/Email-fagboyetobiloba@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fagboyetobiloba@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Fagboye-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fagboye)
-[![Phone](https://img.shields.io/badge/Phone-+234_915_788_4251-00897B?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349157884251)
 
 </div>
 
